@@ -74,4 +74,6 @@ Once you've added your information to the template, delete this file and rename 
 | Despliegue                  | 1          |
 
 **Have fun building!** 🚀
-https://danielguve.github.io/BOOTRACK-TAIWIN/
+https://danielguve.github.io/taiwin/
+https://danielguve.github.io/boottrack/
+>Daniel David Gutierrez Velasco>
